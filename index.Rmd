@@ -1,0 +1,44 @@
+
+---
+title: "*Basic R for Life Sciences"
+---
+
+The material was prepared during 3-day hands on workshop on Basic R for Life Sciences (2017), organized by BioSakshat.
+
+http://biosakshat.weebly.com/
+
+
+![](image/biosakshat.png)
+<br>
+<br>
+
+## Contributors
+* [Dr. Priyabrata Panigrahi](https://in.linkedin.com/in/priyabrata-panigrahi-31621918)
+* [Dr. Pandurang Kolekar](https://www.linkedin.com/in/pandurang-kolekar-phd-14baa259)
+
+
+
+## How to explore the site
+ * Start with **Data structure** module followed by **Data Manipulation** and **Visualization** module.
+ * Explore **Bioconductor**
+ * Explore **Case study**.
+ * **Tasks** section provides various tasks and their solutions.
+ * **Study more** gives all the website materials in PDF format.
+
+
+## Topics covered
+ * Introduction to R & Rstudio
+ * Understand data, data types & data structures
+ * Vector, Matrix, data frames, list, factor (Create, modify, delete)
+ * Interconvert data types, fetching elements
+ * File reading & writing.
+ * Create own function.
+ * Apply set of function for data manipulation
+ * dplyr package
+ * Basic plots
+ * Advanced plot (PCA, heatmap, Clustering)
+ * Bioconductor
+ * Write R script
+ * R using Command line.
+ * Practice with case study 
+ 
